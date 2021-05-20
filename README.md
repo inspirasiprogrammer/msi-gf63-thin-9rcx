@@ -12,16 +12,16 @@
 | ---------------- | ---------------------------------- |
 | Laptop           | MSI-gf63-thin-9rcx                 | 
 | CPU              | Intel i5 9300H                     | 
-| IGPU             | Intel® UHD Graphics 630            |
+| iGPU             | Intel® UHD Graphics 630            |
 | GPU              | GTX 1050TI*                        |
-| Ram              | 16 GB DDR4 2400 MHz                |
+| RAM              | 16 GB DDR4 2400 MHz                |
 | SSD              | Crucial 500GB 2.5                  |
-| SmBios           | MacBookPro 16,1                    |
-| BootLoader       | OpenCore                           |
+| SMBIOS           | MacBookPro 16,1                    |
+| BootLoader       | OpenCore 0.6.9.                    |
 
 # ⚠️WARNING⚠️ 
 
-* GTX 1050TI SUPPORT ONLY High Sierra or elder
+*GTX 1050TI SUPPORT ONLY High Sierra or elder
 
 ![Schermata 2021-05-20 alle 21 59 02](https://user-images.githubusercontent.com/78879120/119042842-ac411700-b9b8-11eb-8fb2-4e4d042edf5c.png)
 
